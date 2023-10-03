@@ -2,6 +2,9 @@
 
 This is a powerful image processing application developed in C++ using the Qt framework. It allows users to perform various image manipulation operations such as resizing, cropping, filtering, color adjustment, and more. The application comes with a user-friendly interface, making it easy for both beginners and advanced users to enhance their images.
 
+![Screenshot (626)](https://github.com/ArijeetBanerjee/Image_Processing_APP/assets/76873956/01e7c105-96fd-471c-8553-b956983b5e2f)
+
+
 ## Features
 
 ✨ **Load Image**: Seamlessly load images into the application.
